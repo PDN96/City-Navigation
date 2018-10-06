@@ -1,3 +1,5 @@
+Route between cities was found using Artificial Intelligence algorithms.
+
 Dataset description:
 
 city-gps.txt contains one line per city, with three fields per line, 
@@ -13,4 +15,4 @@ The space delimited fields are:
 - speed limit (in miles per hour)
 - name of highway
 
-Route between cities was found using Artificial Intelligence algorithms.
+
